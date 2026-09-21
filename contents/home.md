@@ -2,7 +2,7 @@
 
 [[homielouishere](https://github.com/homielouishere-create)]
 
-He is currently a student in the Department of Materials and New Energy at SCNU, working in the research group of Professor Zeng Huadong.
+He is currently a student in the Department of Materials and New Energy at SCNU, working in the research group of Professor [[Huadong Zeng](http://smne.scnu.edu.cn/a/20240416/110.html)].
 
 #### Contact
 
