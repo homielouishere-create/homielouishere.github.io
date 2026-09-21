@@ -1,12 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Meritorious Winner, MCM/ICM, 2026.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Provincial First Prize, Contemporary Undergraduate Mathematical Contest in Modeling, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Outstanding Student Scholarship, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Outstanding Student Scholarship, 2026.

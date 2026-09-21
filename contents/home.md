@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![homielouishere](https://github.com/homielouishere-create)]
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a student in the Department of Materials and New Energy at SCNU.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: 20238032029@m.scnu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Materials and Chemical Engineering, Tsinghua University, 2027—2030.\
+B.E., Energy Storage Science and Engineering, South China Normal University, 2023—2027.
+
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Machine Learning for energy storage materials designing; Topological Data Analysis; First-principles calculations; Quantum Physics
