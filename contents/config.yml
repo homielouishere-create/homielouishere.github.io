@@ -3,7 +3,7 @@ page-top-title: Zihao Wang
 top-section-bg-text: Energy Storage Science and Engineering
 backgrounds:
   - static/assets/background/ketizu.jpg
-  - static/assets/background/background_1.jpeg
+  - static/assets/background/Tingshua.png
 background-interval-ms: 7000
 background-overlay: 0.52
 copyright-text: '&copy; Zihao Wang 2023-2026. All Rights Reserved.'
@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Zihao Wang&ensp;|&ensp;王子豪
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
