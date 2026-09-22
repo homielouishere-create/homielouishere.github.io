@@ -9,7 +9,7 @@ He is currently a student in the Department of Materials and New Energy at SCNU,
 Email: 20238032029@m.scnu.edu.cn
 
 #### Education
-<strong>M.E.</strong>, Materials and Chemical Engineering, <strong>Tsinghua University</strong>, 2027-2039.\
+<strong>M.E.</strong>, Materials and Chemical Engineering, <strong>Tsinghua University</strong>, 2027-2029.\
 <strong>B.E.</strong>, Energy Storage Science and Engineering, <strong>South China Normal University</strong>, 2023-2027.
 
 
