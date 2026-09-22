@@ -2,15 +2,15 @@
 
 [[homielouishere](https://github.com/homielouishere-create)]
 
-He is currently a student in the Department of Materials and New Energy at SCNU, working in the research group of Professor [[Huadong Zeng](http://smne.scnu.edu.cn/a/20240416/110.html)].
+He is currently a student in the Department of Materials and New Energy at SCNU, working in the research group of Professor [Huadong Zeng(http://smne.scnu.edu.cn/a/20240416/110.html)].
 
 #### Contact
 
 Email: 20238032029@m.scnu.edu.cn
 
 #### Education
-M.E., Materials and Chemical Engineering, Tsinghua University, 2027—2030.\
-B.E., Energy Storage Science and Engineering, South China Normal University, 2023—2027.
+M.E., Materials and Chemical Engineering, <strong>Tsinghua University</strong>, 2027—2039.\
+B.E., Energy Storage Science and Engineering, <strong>South China Normal University</strong>, 2023—2027.
 
 
 #### Research Interests
